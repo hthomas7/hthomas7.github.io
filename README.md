@@ -1,5 +1,10 @@
 ### I am a student at Nashua High School South. I am interested in Computational Biology.
 
+### Projects
+<ul>
+  <li></li>
+</ul>
+
 <!--
 **hthomas7/hthomas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
