@@ -2,7 +2,7 @@
 
 ### Projects
 <ul>
-  <li></li>
+  <li> <a> https://github.com/hthomas7/my-projects/blob/main/LOG_Paper.pdf </a>a> </li>
 </ul>
 
 <!--
