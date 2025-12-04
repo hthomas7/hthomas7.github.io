@@ -2,11 +2,11 @@
 
 ### Projects/Papers
 <ul>
-  <li> H Thomas, A Venkat. Analysis of Therapeutic Response in Hepatocellular Carcinoma with Graph-based Machine Learning Methods on Spatial Transcriptomics Data. Molecular Biology of the Cell 2025. Poster presentation at the Cell Bio 2025 Conference.</li>
+  <li> H Thomas, A Venkat. <a href="https://github.com/hthomas7/my-projects/blob/main/Cell_Bio.pdf"> Analysis of Therapeutic Response in Hepatocellular Carcinoma with Graph-based Machine Learning Methods on Spatial Transcriptomics Data. </a> Molecular Biology of the Cell 2025. Poster presentation at the Cell Bio 2025 Conference.</li>
   <li> A Venkat, S Leone, S Youlten, H Thomas, E Fagerberg, J Attanasio, N Joshi, M Perlmutter, S Krishnaswamy. <a href="https://github.com/hthomas7/my-projects/blob/main/LOG_Paper.pdf">Mapping the Gene Space at Single-Cell Resolution with Gene Signal Pattern Analysis. </a> Poster presentation at Learning on Graphs (LoG) Conference 2025. </li>
-  <li> H Thomas, A Telonis. Prediction of Age-Related Gene Expression in Human Hematopoietic Stem and Progenitor Cells Using Machine Learning. Submitted for publication to Journal of Emerging Investigators 2025. </li>
-  <li> H Thomas. Gene Length Correlates with Age-related Gene Regulation in Human Hematopoietic Stem and Progenitor Cells that Predispose to Myeloid Leukemia. Poster presentation at Junior Science and Humanities Symposium 2025. </li>
-  <li> I Lim, M Omkaram, S Pradhan, H Thomas. From Coughs to Conversations: Fine Tuning WHISPER ASR for Medical Transcription. AI/ML Bootcamp Course Project Paper 2024. </li>
+  <li> H Thomas, A Telonis. <a href="https://github.com/hthomas7/my-projects/blob/main/JEI_Manuscript.pdf"> Prediction of Age-Related Gene Expression in Human Hematopoietic Stem and Progenitor Cells Using Machine Learning. </a> Submitted for publication to Journal of Emerging Investigators 2025. </li>
+  <li> H Thomas. <a href="https://github.com/hthomas7/my-projects/blob/main/JSHS_Poster.pdf"> Gene Length Correlates with Age-related Gene Regulation in Human Hematopoietic Stem and Progenitor Cells that Predispose to Myeloid Leukemia. </a> Poster presentation at Junior Science and Humanities Symposium 2025. </li>
+  <li> I Lim, M Omkaram, S Pradhan, H Thomas. <a href="https://github.com/hthomas7/my-projects/blob/main/AIML_BootCamp_Project.pdf"> From Coughs to Conversations: Fine Tuning WHISPER ASR for Medical Transcription. </a> AI/ML Bootcamp Course Project Paper 2024. </li>
 </ul>
 
 <!--
